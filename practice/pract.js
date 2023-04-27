@@ -193,3 +193,8 @@ function createListItem(id, value) {
 
   list.append(element);
 }
+
+const newFeature = () => {
+  console.log("Welcome to the app!");
+};
+newFeature();
